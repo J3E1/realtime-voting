@@ -24,7 +24,7 @@ This project is a real-time opinion word cloud application built with modern web
 
    ```sh
    git clone https://github.com/J3E1/realtime-voting.git
-   cd real-time-word-cloud
+   cd realtime-voting
     ```
 2. Install dependencies of Server and client
 
